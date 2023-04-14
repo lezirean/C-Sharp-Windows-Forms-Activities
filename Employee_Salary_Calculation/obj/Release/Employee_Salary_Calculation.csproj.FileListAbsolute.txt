@@ -1,0 +1,11 @@
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Salary_Calculation\bin\Release\Employee_Salary_Calculation.exe.config
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Salary_Calculation\bin\Release\Employee_Salary_Calculation.exe
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Salary_Calculation\bin\Release\Employee_Salary_Calculation.pdb
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Salary_Calculation\obj\Release\Employee_Salary_Calculation.csproj.AssemblyReference.cache
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Salary_Calculation\obj\Release\Employee_Salary_Calculation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Salary_Calculation\obj\Release\Employee_Salary_Calculation.Form1.resources
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Salary_Calculation\obj\Release\Employee_Salary_Calculation.Properties.Resources.resources
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Salary_Calculation\obj\Release\Employee_Salary_Calculation.csproj.GenerateResource.cache
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Salary_Calculation\obj\Release\Employee_Salary_Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Salary_Calculation\obj\Release\Employee_Salary_Calculation.exe
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Salary_Calculation\obj\Release\Employee_Salary_Calculation.pdb

@@ -1,0 +1,11 @@
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Information\bin\Release\Employee_Information.exe.config
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Information\bin\Release\Employee_Information.exe
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Information\bin\Release\Employee_Information.pdb
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Information\obj\Release\Employee_Information.csproj.AssemblyReference.cache
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Information\obj\Release\Employee_Information.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Information\obj\Release\Employee_Information.Form1.resources
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Information\obj\Release\Employee_Information.Properties.Resources.resources
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Information\obj\Release\Employee_Information.csproj.GenerateResource.cache
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Information\obj\Release\Employee_Information.csproj.CoreCompileInputs.cache
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Information\obj\Release\Employee_Information.exe
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\Employee_Information\obj\Release\Employee_Information.pdb
