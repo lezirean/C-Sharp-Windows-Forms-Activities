@@ -1,0 +1,28 @@
+D:\meg!pup\03\01\elective\Final_Project\Final_Project\bin\Release\Final_Project.exe.config
+D:\meg!pup\03\01\elective\Final_Project\Final_Project\bin\Release\Final_Project.exe
+D:\meg!pup\03\01\elective\Final_Project\Final_Project\bin\Release\Final_Project.pdb
+D:\meg!pup\03\01\elective\Final_Project\Final_Project\obj\Release\Final_Project.csproj.AssemblyReference.cache
+D:\meg!pup\03\01\elective\Final_Project\Final_Project\obj\Release\Final_Project.csproj.SuggestedBindingRedirects.cache
+D:\meg!pup\03\01\elective\Final_Project\Final_Project\obj\Release\Final_Project.ApplicationForm.resources
+D:\meg!pup\03\01\elective\Final_Project\Final_Project\obj\Release\Final_Project.EntryForm.resources
+D:\meg!pup\03\01\elective\Final_Project\Final_Project\obj\Release\Final_Project.LoginForm.resources
+D:\meg!pup\03\01\elective\Final_Project\Final_Project\obj\Release\Final_Project.Properties.Resources.resources
+D:\meg!pup\03\01\elective\Final_Project\Final_Project\obj\Release\Final_Project.ReceiptForm.resources
+D:\meg!pup\03\01\elective\Final_Project\Final_Project\obj\Release\Final_Project.csproj.GenerateResource.cache
+D:\meg!pup\03\01\elective\Final_Project\Final_Project\obj\Release\Final_Project.csproj.CoreCompileInputs.cache
+D:\meg!pup\03\01\elective\Final_Project\Final_Project\obj\Release\Final_Project.exe
+D:\meg!pup\03\01\elective\Final_Project\Final_Project\obj\Release\Final_Project.pdb
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\IT Elective - Final_Project\bin\Release\Final_Project.exe.config
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\IT Elective - Final_Project\bin\Release\Final_Project.exe
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\IT Elective - Final_Project\bin\Release\Final_Project.pdb
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\IT Elective - Final_Project\obj\Release\Final_Project.csproj.AssemblyReference.cache
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\IT Elective - Final_Project\obj\Release\Final_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\IT Elective - Final_Project\obj\Release\Final_Project.ApplicationForm.resources
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\IT Elective - Final_Project\obj\Release\Final_Project.EntryForm.resources
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\IT Elective - Final_Project\obj\Release\Final_Project.LoginForm.resources
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\IT Elective - Final_Project\obj\Release\Final_Project.Properties.Resources.resources
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\IT Elective - Final_Project\obj\Release\Final_Project.ReceiptForm.resources
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\IT Elective - Final_Project\obj\Release\Final_Project.csproj.GenerateResource.cache
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\IT Elective - Final_Project\obj\Release\Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\IT Elective - Final_Project\obj\Release\Final_Project.exe
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\IT Elective - Final_Project\obj\Release\Final_Project.pdb
