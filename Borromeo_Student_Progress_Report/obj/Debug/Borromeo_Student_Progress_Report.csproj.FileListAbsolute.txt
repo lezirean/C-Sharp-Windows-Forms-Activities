@@ -1,0 +1,11 @@
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\IT Elective Activities\Borromeo_Student_Progress_Report\bin\Debug\Borromeo_Student_Progress_Report.exe.config
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\IT Elective Activities\Borromeo_Student_Progress_Report\bin\Debug\Borromeo_Student_Progress_Report.exe
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\IT Elective Activities\Borromeo_Student_Progress_Report\bin\Debug\Borromeo_Student_Progress_Report.pdb
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\IT Elective Activities\Borromeo_Student_Progress_Report\obj\Debug\Borromeo_Student_Progress_Report.csproj.AssemblyReference.cache
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\IT Elective Activities\Borromeo_Student_Progress_Report\obj\Debug\Borromeo_Student_Progress_Report.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\IT Elective Activities\Borromeo_Student_Progress_Report\obj\Debug\Borromeo_Student_Progress_Report.Form1.resources
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\IT Elective Activities\Borromeo_Student_Progress_Report\obj\Debug\Borromeo_Student_Progress_Report.Properties.Resources.resources
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\IT Elective Activities\Borromeo_Student_Progress_Report\obj\Debug\Borromeo_Student_Progress_Report.csproj.GenerateResource.cache
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\IT Elective Activities\Borromeo_Student_Progress_Report\obj\Debug\Borromeo_Student_Progress_Report.csproj.CoreCompileInputs.cache
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\IT Elective Activities\Borromeo_Student_Progress_Report\obj\Debug\Borromeo_Student_Progress_Report.exe
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\IT Elective Activities\Borromeo_Student_Progress_Report\obj\Debug\Borromeo_Student_Progress_Report.pdb

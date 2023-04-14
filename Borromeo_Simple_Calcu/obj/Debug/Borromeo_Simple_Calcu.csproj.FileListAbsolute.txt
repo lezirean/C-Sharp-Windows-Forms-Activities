@@ -1,0 +1,11 @@
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Borromeo_Simple_Calcu\bin\Debug\Borromeo_Simple_Calcu.exe.config
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Borromeo_Simple_Calcu\bin\Debug\Borromeo_Simple_Calcu.exe
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Borromeo_Simple_Calcu\bin\Debug\Borromeo_Simple_Calcu.pdb
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Borromeo_Simple_Calcu\obj\Debug\Borromeo_Simple_Calcu.csproj.AssemblyReference.cache
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Borromeo_Simple_Calcu\obj\Debug\Borromeo_Simple_Calcu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Borromeo_Simple_Calcu\obj\Debug\Borromeo_Simple_Calcu.Form1.resources
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Borromeo_Simple_Calcu\obj\Debug\Borromeo_Simple_Calcu.Properties.Resources.resources
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Borromeo_Simple_Calcu\obj\Debug\Borromeo_Simple_Calcu.csproj.GenerateResource.cache
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Borromeo_Simple_Calcu\obj\Debug\Borromeo_Simple_Calcu.csproj.CoreCompileInputs.cache
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Borromeo_Simple_Calcu\obj\Debug\Borromeo_Simple_Calcu.exe
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Borromeo_Simple_Calcu\obj\Debug\Borromeo_Simple_Calcu.pdb

@@ -1,0 +1,15 @@
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\switchgradequivalent\obj\Debug\net6.0\switchgradequivalent.csproj.AssemblyReference.cache
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\switchgradequivalent\obj\Debug\net6.0\switchgradequivalent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\switchgradequivalent\obj\Debug\net6.0\switchgradequivalent.AssemblyInfoInputs.cache
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\switchgradequivalent\obj\Debug\net6.0\switchgradequivalent.AssemblyInfo.cs
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\switchgradequivalent\obj\Debug\net6.0\switchgradequivalent.csproj.CoreCompileInputs.cache
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\switchgradequivalent\bin\Debug\net6.0\switchgradequivalent.exe
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\switchgradequivalent\bin\Debug\net6.0\switchgradequivalent.deps.json
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\switchgradequivalent\bin\Debug\net6.0\switchgradequivalent.runtimeconfig.json
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\switchgradequivalent\bin\Debug\net6.0\switchgradequivalent.dll
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\switchgradequivalent\bin\Debug\net6.0\switchgradequivalent.pdb
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\switchgradequivalent\obj\Debug\net6.0\switchgradequivalent.dll
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\switchgradequivalent\obj\Debug\net6.0\refint\switchgradequivalent.dll
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\switchgradequivalent\obj\Debug\net6.0\switchgradequivalent.pdb
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\switchgradequivalent\obj\Debug\net6.0\switchgradequivalent.genruntimeconfig.cache
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\switchgradequivalent\obj\Debug\net6.0\ref\switchgradequivalent.dll
