@@ -1,0 +1,11 @@
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_ScientificCalculator\bin\Debug\BORROMEO_Leila_ScientificCalculator.exe.config
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_ScientificCalculator\bin\Debug\BORROMEO_Leila_ScientificCalculator.exe
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_ScientificCalculator\bin\Debug\BORROMEO_Leila_ScientificCalculator.pdb
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_ScientificCalculator\obj\Debug\BORROMEO_Leila_ScientificCalculator.csproj.AssemblyReference.cache
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_ScientificCalculator\obj\Debug\BORROMEO_Leila_ScientificCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_ScientificCalculator\obj\Debug\BORROMEO_Leila_ScientificCalculator.Form1.resources
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_ScientificCalculator\obj\Debug\BORROMEO_Leila_ScientificCalculator.Properties.Resources.resources
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_ScientificCalculator\obj\Debug\BORROMEO_Leila_ScientificCalculator.csproj.GenerateResource.cache
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_ScientificCalculator\obj\Debug\BORROMEO_Leila_ScientificCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_ScientificCalculator\obj\Debug\BORROMEO_Leila_ScientificCalculator.exe
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_ScientificCalculator\obj\Debug\BORROMEO_Leila_ScientificCalculator.pdb

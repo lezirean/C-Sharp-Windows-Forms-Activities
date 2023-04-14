@@ -1,0 +1,12 @@
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Delivery-Order-Program\bin\Debug\Delivery-Order-Program.exe.config
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Delivery-Order-Program\bin\Debug\Delivery-Order-Program.exe
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Delivery-Order-Program\bin\Debug\Delivery-Order-Program.pdb
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Delivery-Order-Program\obj\Debug\Delivery-Order-Program.csproj.AssemblyReference.cache
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Delivery-Order-Program\obj\Debug\Delivery-Order-Program.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Delivery-Order-Program\obj\Debug\Delivery_Order_Program.Form1.resources
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Delivery-Order-Program\obj\Debug\Delivery_Order_Program.Form2.resources
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Delivery-Order-Program\obj\Debug\Delivery_Order_Program.Properties.Resources.resources
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Delivery-Order-Program\obj\Debug\Delivery-Order-Program.csproj.GenerateResource.cache
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Delivery-Order-Program\obj\Debug\Delivery-Order-Program.csproj.CoreCompileInputs.cache
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Delivery-Order-Program\obj\Debug\Delivery-Order-Program.exe
+C:\Users\Leila Borromeo\Documents\IT Elective 1 (C# and .NET)\Delivery-Order-Program\obj\Debug\Delivery-Order-Program.pdb

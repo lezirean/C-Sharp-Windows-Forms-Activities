@@ -1,0 +1,11 @@
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_Validating_Inputs\bin\Debug\BORROMEO_Leila_Validating_Inputs.exe.config
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_Validating_Inputs\bin\Debug\BORROMEO_Leila_Validating_Inputs.exe
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_Validating_Inputs\bin\Debug\BORROMEO_Leila_Validating_Inputs.pdb
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_Validating_Inputs\obj\Debug\BORROMEO_Leila_Validating_Inputs.csproj.AssemblyReference.cache
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_Validating_Inputs\obj\Debug\BORROMEO_Leila_Validating_Inputs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_Validating_Inputs\obj\Debug\BORROMEO_Leila_Validating_Inputs.ValidatingInputs.resources
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_Validating_Inputs\obj\Debug\BORROMEO_Leila_Validating_Inputs.Properties.Resources.resources
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_Validating_Inputs\obj\Debug\BORROMEO_Leila_Validating_Inputs.csproj.GenerateResource.cache
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_Validating_Inputs\obj\Debug\BORROMEO_Leila_Validating_Inputs.csproj.CoreCompileInputs.cache
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_Validating_Inputs\obj\Debug\BORROMEO_Leila_Validating_Inputs.exe
+C:\Users\Leila Borromeo\Documents\PUP 3rd Year\First Semester\IT Elective 1 (C# and .NET)\BORROMEO_Leila_Validating_Inputs\obj\Debug\BORROMEO_Leila_Validating_Inputs.pdb
